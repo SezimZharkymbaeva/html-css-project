@@ -3,7 +3,7 @@ body{
     padding: 0;
 }
 #header {
-    background: url('backgr.jpeg') no-repeat center center/cover;
+    background: url('pngs/backgr.jpeg') no-repeat center center/cover;
     height: 770px;
 }
 nav{
